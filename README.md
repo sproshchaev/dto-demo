@@ -2,3 +2,6 @@
 
 # dto-demo
 Example of working with DTO
+
+### References
+1. The DTO Pattern (Data Transfer Object) https://www.baeldung.com/java-dto-pattern
